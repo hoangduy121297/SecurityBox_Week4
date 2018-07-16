@@ -1,0 +1,3 @@
+﻿  Model.cpp
+c:\users\mypc\source\repos\sbw3\sbw3\model.cpp(435): warning C4018: '<': signed/unsigned mismatch
+  SBW3.vcxproj -> C:\Users\MyPC\source\repos\SBW3\Debug\SBW3.exe
